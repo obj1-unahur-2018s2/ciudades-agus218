@@ -1,15 +1,15 @@
 # Datos de ciudades
 
 ## Parte 1: Países y ciudades
-Realizar un modelo de paises y ciudades que considere la siguiente descripción, de forma tal que pueda consultarse cualquiera de los datos que se denen.
-De cada país interesa: el nombre, la moneda (un String), la población, la supercie en km2, la densidad (hab/km2), y su capital, que es una ciudad.
+Realizar un modelo de paises y ciudades que considere la siguiente descripción, de forma tal que pueda consultarse cualquiera de los datos que se definen.
+De cada país interesa: el nombre, la moneda (un String), la población, la superficie en km2, la densidad (hab/km2), y su capital, que es una ciudad.
 
 De cada ciudad interesa:
 
 * su moneda, que es la de su país
 * su población
 * la cantidad de días de sol por año
-* su supercie
+* su superficie
 * si es enorme, o sea si tiene más de 2 millones de habitantes
 * la cantidad de autos que circulan por día
 * la cantidad de autos que circulan por semana
