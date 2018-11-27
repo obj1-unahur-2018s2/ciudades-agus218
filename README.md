@@ -18,7 +18,7 @@ De cada ciudad interesa:
 * la cantidad de horas productivas por día laboral, que se calcula como población activa * 7. A su vez, la población activa es población / 3. En ciudades ultraconectadas, la población activa es un 20 % superior.
 
 ## Parte 2: Barrios
-Se agregan los barrios de cada ciudad, cada uno con su población y supercie. La población y supercie de una ciudad son ahora el total del valor de cada barrio. También hay que poder preguntarle a una ciudad si está está bien organizada, o sea, si para ningún barrio su población supera el doble del promedio de los barrios de la ciudad.
+Se agregan los barrios de cada ciudad, cada uno con su población y superficie. La población y superficie de una ciudad son ahora el total del valor de cada barrio. También hay que poder preguntarle a una ciudad si está está bien organizada, o sea, si para ningún barrio su población supera el doble del promedio de los barrios de la ciudad.
 
 ## Parte 3: Empresas
 Se agregan empresas, para cada una se sabe en qué ciudades está establecida. Hay que poder preguntarle a una ciudad si conoce a una empresa, o sea, si la empresa está establecida o bien en esa ciudad, o bien en la capital de su país.
