@@ -19,6 +19,7 @@ De cada ciudad interesa:
 
 ## Parte 2: Barrios
 Se agregan los barrios de cada ciudad, cada uno con su población y superficie. La población y superficie de una ciudad son ahora el total del valor de cada barrio. También hay que poder preguntarle a una ciudad si está está bien organizada, o sea, si para ningún barrio su población supera el doble del promedio de los barrios de la ciudad.
+También hay que poder preguntarle a la ciudad cuales son las ciudades que tienen mas de X cantidad de habitantes.
 
 ## Parte 3: Empresas
 Se agregan empresas, para cada una se sabe en qué ciudades está establecida. Hay que poder preguntarle a una ciudad si conoce a una empresa, o sea, si la empresa está establecida o bien en esa ciudad, o bien en la capital de su país.
